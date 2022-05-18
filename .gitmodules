@@ -1,0 +1,6 @@
+[submodule "fe_orc_2022"]
+	path = fe_orc_2022
+	url = git@github.com:abmist/fe_orc_2022.git
+[submodule "be_orc_2022"]
+	path = be_orc_2022
+	url = git@github.com:abmist/be_orc_2022.git
